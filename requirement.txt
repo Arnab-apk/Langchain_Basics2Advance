@@ -7,3 +7,4 @@ langchain-google-genai
 langchain_groq
 ipykernel
 langchain_huggingface
+langchain_tavily
