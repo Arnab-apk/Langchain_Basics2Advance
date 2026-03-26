@@ -1,10 +1,10 @@
 langchain
-langchain_community
+langchain-community
 langgraph
-langchain_openai
+langchain-openai
 python-dotenv
 langchain-google-genai
-langchain_groq
+langchain-groq
 ipykernel
-langchain_huggingface
-langchain_tavily
+langchain-huggingface
+langchain-tavily
